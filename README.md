@@ -1,0 +1,1 @@
+# Translator clone 💙.

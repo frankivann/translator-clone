@@ -1,0 +1,17 @@
+#root {
+  width: 100%;
+  display: flex;
+  place-content: center;
+  padding: 2rem;
+  text-align: center;
+}
+
+.main {
+  display: flex;
+  gap: 10px;
+}
+
+.interChange {
+  padding: 8px;
+  margin: 0;
+}
