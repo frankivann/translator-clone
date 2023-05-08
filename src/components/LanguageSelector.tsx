@@ -8,7 +8,6 @@ type Props =
 export const LanguageSelector: React.FC<Props> = ({ type, value, onChange }) => {
 
   const handleChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    console.log(event.target.value)
     onChange(event.target.value as Language)
   }
 
